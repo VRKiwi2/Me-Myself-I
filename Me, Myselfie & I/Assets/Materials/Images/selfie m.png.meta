@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 194142ac3a25141af9092e7c3c64271c
+guid: 20387d710e04aa942bb2dcab0e0bfec3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -91,10 +91,10 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Windows Store Apps
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 3
-    textureCompression: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
