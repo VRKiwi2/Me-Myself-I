@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Space_1
   m_EditorClassIdentifier: 
   version: 0
-  sku: 
+  sku: 6466ca2df1caf0962f0b89e0
   packageName: 'Me, Myselfie & I '
-  thumbnail: {fileID: 2800000, guid: 20387d710e04aa942bb2dcab0e0bfec3, type: 3}
+  thumbnail: {fileID: 2800000, guid: aa1d51cb1d226834bbc72bb97112dfd3, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: JkTqazvbBplY7tQEJ46Nq
   scene: {fileID: 102900000, guid: ed5db02fa8ea7814d9ac599a4355c7cc, type: 3}
